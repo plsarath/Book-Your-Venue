@@ -1,0 +1,268 @@
+body
+{
+background-color:#FFFFCC;
+margin-left:auto;
+width:1280px;
+margin-right:auto;
+}
+div.about
+{
+width:150;
+height:45;
+margin-left:75;
+margin-top:10;
+background-color:#1BA1E2;
+border:1px solid grey;
+}
+div.about:hover
+{
+border:1px solid white;
+-webkit-animation:myfifth 0.3s;
+box-shadow: 0px 0px 25px 0px #CCCCCC;
+}
+@-webkit-keyframes myfifth 
+ 	
+{
+   0%{box-shadow: 0px 0px 0px 0px #FFFFFF;}
+100%{box-shadow: 0px 0px 25px 0px #CCCCCC;}
+}
+div.aboutcontent
+{
+font-family:"Segoe UI Light";
+color:	#000000;
+font-size:25px;
+}
+div.aboutcontent1
+{
+font-family:"Segoe UI Light";
+color:	#FFFFFF;
+font-size:15px;
+}
+div.aboutcontent2
+{
+font-family:"Segoe UI Light";
+color:	#FFFFFF;
+font-size:25px;
+}
+
+
+div.objectives
+{
+width:150;
+height:45;
+margin-top:-47;
+margin-left:275;
+background-color:#F09609;
+border:1px solid grey;
+}
+div.objectives:hover
+{
+border:1px solid white;
+-webkit-animation:mysixth 0.3s;
+-webkit-animation:mysixth1 2s;
+box-shadow: 0px 0px 25px 0px #CCCCCC;
+}
+@-webkit-keyframes mysixth 
+ 	
+{
+   0%{box-shadow: 0px 0px 0px 0px #FFFFFF;}
+100%{box-shadow: 0px 0px 25px 0px #CCCCCC;}
+}
+
+
+div.objectivescontent
+{
+font-family:"Segoe UI Light";
+color:	#000000;
+font-size:25px;
+}
+
+
+div.sc
+{
+width:150;
+height:45;
+margin-left:475;
+margin-top:-47;
+background-color:#339933;
+border:1px solid grey;
+
+}
+
+div.sc:hover
+{
+border:1px solid white;
+box-shadow: 0px 0px 25px 0px #CCCCCC;
+-webkit-animation:myseventh 0.3s;
+}
+@-webkit-keyframes myseventh 
+ 	
+{
+   0%{box-shadow: 0px 0px 0px 0px #FFFFFF;}
+100%{box-shadow: 0px 0px 25px 0px #CCCCCC;}
+}
+div.scc
+{
+font-family:"Segoe UI Light";
+color:	#000000;
+font-size:25px;
+}
+div.scc1
+{
+font-family:"Segoe UI Light";
+color:	#FFFFFF;
+margin-top:-80;
+font-size:15px;
+}
+div.ac
+{
+width:150;
+height:45;
+margin-left:675;
+margin-top:-48;
+background-color:#1BA1E2;
+border:1px solid grey;
+
+}
+
+div.ac:hover
+{
+border:1px solid white;
+box-shadow: 0px 0px 25px 0px #CCCCCC;
+-webkit-animation:myeighth 0.3s;
+-webkit-animation:myeighth1 2s;
+}
+@-webkit-keyframes myeighth 
+ 	
+{
+   0%{box-shadow: 0px 0px 0px 0px #FFFFFF;}
+100%{box-shadow: 0px 0px 25px 0px #CCCCCC;}
+}
+
+
+div.acc
+{
+font-family:"Segoe UI Light";
+color:	#000000;
+font-size:25px;
+}
+
+
+div.es
+{
+width:150;
+height:45;
+margin-left:875;
+margin-top:-46;
+background-color:#F09609;
+border:1px solid grey;
+}
+
+div.es:hover
+{
+border:1px solid white;
+box-shadow: 0px 0px 25px 0px #CCCCCC;
+-webkit-animation:mynineth 0.3s;
+}
+@-webkit-keyframes mynineth 
+ 	
+{
+   0%{box-shadow: 0px 0px 0px 0px #FFFFFF;}
+100%{box-shadow: 0px 0px 25px 0px #CCCCCC;}
+}
+
+div.esc
+{
+font-family:"Segoe UI Light";
+color:	#000000;
+font-size:25px;
+}
+
+div.ys
+{
+width:150;
+height:45;
+margin-left:1075;
+margin-top:-46;
+background-color:#339933;
+border:1px solid grey;
+
+}
+
+div.ys:hover
+{
+border:1px solid white;
+box-shadow: 0px 0px 25px 0px #CCCCCC;
+-webkit-animation:mytenth 0.3s;
+-webkit-animation:mytenth1 2s;
+}
+@-webkit-keyframes mytenth 
+ 	
+{
+   0%{box-shadow: 0px 0px 0px 0px #FFFFFF;}
+100%{box-shadow: 0px 0px 25px 0px #CCCCCC;}
+}
+
+div.ysc
+{
+font-family:"Segoe UI Light";
+color:	#000000;
+font-size:25px;
+}
+
+div.block
+{
+font-family:"Segoe UI Light";
+font-size:28;
+color:#FFFFFF;
+}
+div.block1
+{
+width:215;
+height:40;
+margin-left:10;
+margin-top:30;
+background-color:#000000;
+font-family:"Segoe UI Light";
+font-size:25;
+color:#FFFFFF;
+border:1px solid white;
+}
+div.block1:hover
+{
+background-color:rgb(62,62,62);
+border:1px solid white;
+box-shadow: 0px 0px 25px 0px #CCCCCC;
+-webkit-animation:myfirst 0.3s;
+
+}
+@-webkit-keyframes myfirst
+{
+0%{box-shadow: 0px 0px 0px 0px #FFFFFF;}
+100%{box-shadow: 0px 0px 25px 0px #CCCCCC;}
+}
+div.serv
+{
+font-family:"Andalus";
+color:	#000000;
+font-size:50px;
+}
+div.fnt
+{
+font-family:"Andalus";
+color:	#000000;
+position:fixed;
+font-size:20px;
+margin-left:300;
+margin-rightt:3;
+margin-top:-350;
+}
+div.fntt
+{
+font-family:"Andalus";
+color:	#000000;
+position:fixed;
+font-size:35px;
+margin-left:470;
+margin-top:40;
+}	
